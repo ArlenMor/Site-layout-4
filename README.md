@@ -1,7 +1,7 @@
 # Верстка сайта по макеты из Figma
 
 Чтобы ознакомится с результатом, Вы можете перейти по ссылке: 
-[https://arlenmor.github.io/Site-layout-1/](https://arlenmor.github.io/Site-layout-4/)
+[Ссылка на сайт](https://arlenmor.github.io/Site-layout-4/)
 
 ---
 
